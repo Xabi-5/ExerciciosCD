@@ -1,3 +1,4 @@
+package Tarefa7Repaso;
 public class Factura {
     private int consumokWh;
 
